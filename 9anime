@@ -1,4 +1,6 @@
 #Blocklist for 9anime.ru 
+#
+#Desktop
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 run-syndicate.com
@@ -42,3 +44,4 @@
 0.0.0.0 mgid.com
 0.0.0.0 syndication.twitter.com
 
+#Mobile-Samsung Galaxy
