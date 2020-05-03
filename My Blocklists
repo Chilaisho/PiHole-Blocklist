@@ -46,3 +46,9 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 
 #Bitcoin Mining
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+
+###################################################################################
+##User Generated blocklist based on rules with autoupdate
+#https://github.com/mkb2091/blockconvert/blob/master/README.md
+#Note: Caused issues without using any whitelists
+#https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/hosts.txt
