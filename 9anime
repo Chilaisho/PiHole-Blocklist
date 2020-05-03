@@ -1,4 +1,12 @@
 #Blocklist for 9anime.ru 
+##Stuff i didnt block
+#cnnvp.mcloud2.to - Video i believe
+#9anime.ru
+#akacdn.ru [staticf.akacdn.ru] - Video I believe
+#disqus.com
+#disquscdn.com
+#fonts.googleapis.com
+
 
 #Desktop
 0.0.0.0 24vunvrv.com
@@ -13,9 +21,13 @@
 0.0.0.0 runative-syndicate.com
 0.0.0.0 viglink.com
 0.0.0.0 zap.buzz
+0.0.0.0 zap.buzz.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 referrer.disqus.com
+0.0.0.0 run-syndicate.com
+0.0.0.0 runative-syndicate.com
+0.0.0.0 cdn.runative-syndicate.com
 
 0.0.0.0 gotrack1.es
 0.0.0.0 www.gotrack1.es
