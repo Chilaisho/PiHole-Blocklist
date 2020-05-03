@@ -1,11 +1,4 @@
 #Blocklist for 9anime.ru 
-##Stuff i didnt block
-#cnnvp.mcloud2.to - Video i believe
-#9anime.ru
-#akacdn.ru [staticf.akacdn.ru] - Video I believe
-#disqus.com
-#disquscdn.com
-#fonts.googleapis.com
 
 #Desktop
 0.0.0.0 24vunvrv.com
