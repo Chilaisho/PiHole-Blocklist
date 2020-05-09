@@ -54,3 +54,8 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 #https://github.com/mkb2091/blockconvert/blob/master/README.md
 #Note: Caused issues without using any whitelists
 #https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/hosts.txt
+
+
+# dbl.oisd.nl | Internet's #1 domain blocklist | Reddit | https://www.reddit.com/r/pfBlockerNG/comments/ed702i/dbloisdnl_internets_1_domain_blocklist/
+#Lot of domains claims to be low on false positives ie no whitelist needed [we shall see]
+https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt
